@@ -4,7 +4,7 @@ pip install selenium \
 pip install beautifulsoup4 
 
 Esse script tem o objetivo de pegar informações de casas para aluguel pelo site zillow e preencher um formulário
-no google forms. \
+no google forms. 
 
 altere URL em searcplace.py \
 altere o header para as configurações do seu navegador 
